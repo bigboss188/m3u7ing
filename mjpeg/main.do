@@ -4,4 +4,8 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.000000,
 watch.ts
+#EXTINF:5.000000,
+watch.ts
+#EXTINF:5.000000,
+watch.ts
 #EXT-X-ENDLIST
